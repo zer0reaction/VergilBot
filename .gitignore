@@ -1,0 +1,10 @@
+creds.py
+bin
+include
+lib
+lib64
+pyvenv.cfg
+pyrightconfig.json
+VergilBot.session
+__pycache__
+
